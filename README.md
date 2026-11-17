@@ -31,6 +31,7 @@ addon | version | maintainers | summary
 [shopinvader_search_engine_product_template_multi_link](shopinvader_search_engine_product_template_multi_link/) | 18.0.1.0.0 |  | Shopinvader Product Link
 [shopinvader_search_engine_update](shopinvader_search_engine_update/) | 18.0.1.0.0 |  | Shopinvader: Mark product binding to export on product update
 [shopinvader_search_engine_update_pricelist](shopinvader_search_engine_update_pricelist/) | 18.0.1.0.0 |  | Shopinvader: Mark product binding to export on Product Pricelist update
+[shopinvader_search_engine_update_product_template_multi_link](shopinvader_search_engine_update_product_template_multi_link/) | 18.0.1.0.0 |  | Mark bindings to recompute when a link is added, deleted or modified
 
 
 Unported addons
@@ -46,7 +47,6 @@ addon | version | maintainers | summary
 [shopinvader_search_engine_update_product_brand_image](shopinvader_search_engine_update_product_brand_image/) | 16.0.1.0.0 (unported) |  | Mark brand and product bindings to export on product image brand update
 [shopinvader_search_engine_update_product_brand_tag](shopinvader_search_engine_update_product_brand_tag/) | 16.0.1.0.0 (unported) |  | Mark brand and product bindings to export on product image tag update
 [shopinvader_search_engine_update_product_media](shopinvader_search_engine_update_product_media/) | 16.0.1.0.0 (unported) |  | Shopinvader: Mark products linked to a media to be updated when the media change
-[shopinvader_search_engine_update_product_template_multi_link](shopinvader_search_engine_update_product_template_multi_link/) | 16.0.1.0.0 (unported) |  | Mark bindings to recompute when a link is added, deleted or modified
 
 [//]: # (end addons)
 
